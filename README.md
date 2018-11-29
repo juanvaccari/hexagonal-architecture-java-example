@@ -1,1 +1,4 @@
-# hexagonal-architecture-java-example
+### Build and Deploy the Project
+```
+mvn clean install
+```
